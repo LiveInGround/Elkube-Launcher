@@ -3,9 +3,9 @@ updateAvailableTooltip = "Mise à jour disponible"
 usernamePlaceholder = "Username"
 usernameEditButton = "Modifier"
 settingsTooltip = "Réglages"
-serverStatus = "SERVEUR"
+serverStatus = "SERVEURS"
 serverStatusPlaceholder = "HORS LIGNE"
-mojangStatus = "MOJANG STATUS"
+mojangStatus = "STATUT DES SERVEURS MOJANG"
 mojangStatusTooltipTitle = "Services"
 mojangStatusNETitle = "Non&nbsp;Essential"
 newsButton = "NEWS"
@@ -59,9 +59,9 @@ navAbout = "A propos"
 navUpdates = "Mises à jours"
 navDone = "Terminé"
 tabAccountHeaderText = "Réglages du compte"
-tabAccountHeaderDesc = "Add new accounts or manage existing ones."
+tabAccountHeaderDesc = "Ajouter un nouveau compte, ou gérer les comptes existants."
 microsoftAccount = "Microsoft"
-addMicrosoftAccount = "+ Add Microsoft Account"
+addMicrosoftAccount = "+ Créer un compte Microsoft"
 mojangAccount = "Mojang"
 addMojangAccount = "+ Add Mojang Account"
 minecraftTabHeaderText = "Minecraft Settings"
@@ -127,16 +127,16 @@ updateReleaseNotes = "Update Release Notes"
 waitingText = "Waiting for Microsoft.."
 
 [ejs.welcome]
-continueButton = "CONTINUE"
+continueButton = "CONTINUER"
 
 
 [js.discord]
-waiting = "Waiting for Client.."
-state = "Server: {shortId}"
+waiting = "En attente du client.."
+state = "Serveur: {shortId}"
 
 [js.index]
-microsoftLoginTitle = "Microsoft Login"
-microsoftLogoutTitle = "Microsoft Logout"
+microsoftLoginTitle = "Connexion Microsoft"
+microsoftLogoutTitle = "Déconnexion Microsoft"
 
 [js.login]
 login = "LOGIN"
@@ -166,9 +166,9 @@ noSelection = "No Server Selected"
 loading = "Loading.."
 
 [js.landing.serverStatus]
-server = "SERVER"
-offline = "OFFLINE"
-players = "PLAYERS"
+server = "SERVEUR"
+offline = "HORS LIGNE"
+players = "JOUEURS"
 
 [js.landing.systemScan]
 checking = "Checking system info.."
