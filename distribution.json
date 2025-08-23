@@ -1,0 +1,30 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "1408852399849865370",
+        "smallImageText": "Elkube",
+        "smallImageKey": "elkube"
+    },
+    "rss": "https://elkube.wtfcraft.ovh/api/rss",
+    "servers": [
+        {
+            "id": "Elkube_a",
+            "name": "Elkube",
+            "description": "Notre serveur Minecraft modé.",
+            "icon": "https://elkube.wtfcraft.ovh/storage/img/icon.png",
+            "version": "2.0.0",
+            "address": "elkube.wtfcraft.ovh",
+            "minecraftVersion": "1.21.8",
+            "discord": {
+                "shortId": "Elkube",
+                "largeImageText": "Serveur principal d'Elkube",
+                "largeImageKey": "elkube"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                "Module Objects Here"
+            ]
+        }
+    ]
+}
