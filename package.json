@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "elkubelauncher",
   "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Elkube Launcher",
+  "description": "Le launcher officiel (fork de Helios Launcher) du serveur Minecraft Elkube",
+  "author": "LiveInGround (https://github.com/LiveInGround/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/LiveInGround/Elkube-Launcher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/LiveInGround/Elkube-Launcher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/LiveInGround/Elkube-Launcher.git"
   }
 }
