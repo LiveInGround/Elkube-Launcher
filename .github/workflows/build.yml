@@ -36,3 +36,21 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm run dist
         shell: bash
+
+      - name: Push built files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          mkdir upload
+          cp -r dist/* upload/
+
+          git fetch origin
+          git checkout -B builds
+
+          rm -rf *
+          cp -r ../upload/* .
+
+          git add .
+          git commit -m "Add builds from ${{ github.sha }}" || echo "No changes to commit"
+          git push origin builds --force
