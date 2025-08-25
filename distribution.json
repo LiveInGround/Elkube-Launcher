@@ -14,7 +14,7 @@
             "icon": "https://elkube.wtfcraft.ovh/storage/img/icon.png",
             "version": "2.0.0",
             "address": "elkube.wtfcraft.ovh",
-            "minecraftVersion": "1.21.8",
+            "minecraftVersion": "1.21.1",
             "discord": {
                 "shortId": "Elkube",
                 "largeImageText": "Serveur principal d'Elkube",
@@ -23,7 +23,17 @@
             "mainServer": true,
             "autoconnect": true,
             "modules": [
-                "Module Objects Here"
+                {
+                  "id": "net.neoforged:neoforge:21.1.203",
+                  "name": "NeoForge 21.1.203 (MC 1.21.1)",
+                  "type": "NeoForgeHosted",
+                  "artifact": {
+                    "size": 12345678,
+                    "MD5": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+                    "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.203/neoforge-21.1.203-installer.jar"
+                  }
+                }
+
             ]
         }
     ]
