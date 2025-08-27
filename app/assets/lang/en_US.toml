@@ -1,6 +1,6 @@
 [ejs.landing]
 updateAvailableTooltip = "Mise à jour disponible"
-usernamePlaceholder = "Username"
+usernamePlaceholder = "Nom d'utilisateur"
 usernameEditButton = "Modifier"
 settingsTooltip = "Réglages"
 serverStatus = "SERVEURS"
@@ -181,17 +181,17 @@ javaDownloadFailureTitle = "Erreur pendant le téléchargement de Java"
 javaDownloadFailureText = "Regardez la console (CTRL + Shift + i) pour plus de détails."
 javaRequired = "Java est requis<br>pour lancer le jeu"
 javaRequiredMessage = 'Une installation x64 valide de Java {major} est requise pour lancer le jeu.<br><br>Réferrez-vous à ce guide <a href="https://github.com/dscalzi/HeliosLauncher/wiki/Java-Management#manually-installing-a-valid-version-of-java">[Java Management Guide]</a> pour les voir les instructions afin d'installer manuellement Java.'
-javaRequiredDismiss = "I Understand"
-javaRequiredCancel = "Go Back"
+javaRequiredDismiss = "Je comprends"
+javaRequiredCancel = "Retour"
 
 [js.landing.downloadJava]
-findJdkFailure = "Failed to find OpenJDK distribution."
-javaDownloadCorruptedError = "Downloaded JDK has a bad hash, the file may be corrupted."
-extractingJava = "Extracting Java"
-javaInstalled = "Java Installed!"
+findJdkFailure = "Impossible de trouver une distribution OpenJDK."
+javaDownloadCorruptedError = "Le JDK téléchargé n'a pas le bon hash, le fichier est peut être corrompu."
+extractingJava = "Extraction de Java"
+javaInstalled = "Java installé !"
 
 [js.landing.dlAsync]
-loadingServerInfo = "Loading server information.."
+loadingServerInfo = "Chargement des informations du serveur.."
 fatalError = "Fatal Error"
 unableToLoadDistributionIndex = "Could not load a copy of the distribution index. See the console (CTRL + Shift + i) for more details."
 pleaseWait = "Please wait.."
