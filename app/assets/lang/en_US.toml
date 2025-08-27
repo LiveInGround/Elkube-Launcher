@@ -243,38 +243,38 @@ confirmButton = "Je suis sûr(e)"
 cancelButton = "Annuler"
 
 [js.settings.authAccountPopulate]
-username = "Username"
+username = "Nom d'utilisateur"
 uuid = "UUID"
-selectAccount = "Select Account"
-selectedAccount = "Selected Account ✓"
-logout = "Log Out"
+selectAccount = "Sélectionner le compte"
+selectedAccount = "Compte sélectionné ✓"
+logout = "Se déconnecter"
 
 [js.settings.dropinMods]
-removeButton = "Remove"
-deleteFailedTitle = "Failed to Delete<br>Drop-in Mod {fullName}"
-deleteFailedMessage = "Make sure the file is not in use and try again."
-failedToggleTitle = "Failed to Toggle<br>One or More Drop-in Mods"
+removeButton = "Retirer"
+deleteFailedTitle = "Impossible de supprimer<br>le mod {fullName}"
+deleteFailedMessage = "Assurez-vous que le fichier n'est pas en cours d'utilisation puis réessayez."
+failedToggleTitle = "Impossible d'activer/désactiver<br>un ou plusieurs mods."
 okButton = "Okay"
 
 [js.settings.serverListing]
-mainServer = "Main Server"
+mainServer = "Serveur principal"
 
 [js.settings.java]
-selectedJava = "Selected: Java {version} ({vendor})"
-invalidSelection = "Invalid Selection"
-requiresJava = "Requires Java {major} x64."
-availableOptions = "Available Options for Java {major} (HotSpot VM)"
+selectedJava = "Sélectionné: Java {version} ({vendor})"
+invalidSelection = "Sélection invalide"
+requiresJava = "Requier Java {major} x64."
+availableOptions = "Options disponibles pour Java {major} (HotSpot VM)"
 
 [js.settings.about]
-preReleaseTitle = "Pre-release"
-stableReleaseTitle = "Stable Release"
-releaseNotesFailed = "Failed to load release notes."
+preReleaseTitle = "Pré-release"
+stableReleaseTitle = "Mise à jour stable"
+releaseNotesFailed = "Echec du chargement des notes de mise à jour."
 
 [js.settings.updates]
-newReleaseTitle = "New Release Available"
-newPreReleaseTitle = "New Pre-release Available"
-downloadingButton = "Downloading.."
-downloadButton = 'Download from GitHub<span style="font-size: 10px;color: gray;text-shadow: none !important;">Close the launcher and run the dmg to update.</span>'
+newReleaseTitle = "Nouvelle MaJ disponible"
+newPreReleaseTitle = "Nouvelle pré-release disponible"
+downloadingButton = "Téléchargement.."
+downloadButton = 'Téléchargement depuis GitHub<span style="font-size: 10px;color: gray;text-shadow: none !important;">Fermez le Launcher et executez le dmg pour mettre à jour.</span>'
 latestVersionTitle = "You Are Running the Latest Version"
 checkForUpdatesButton = "Check for Updates"
 checkingForUpdatesButton = "Checking for Updates.."
