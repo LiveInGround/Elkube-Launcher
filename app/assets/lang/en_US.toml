@@ -192,55 +192,55 @@ javaInstalled = "Java installé !"
 
 [js.landing.dlAsync]
 loadingServerInfo = "Chargement des informations du serveur.."
-fatalError = "Fatal Error"
-unableToLoadDistributionIndex = "Could not load a copy of the distribution index. See the console (CTRL + Shift + i) for more details."
-pleaseWait = "Please wait.."
-errorDuringLaunchTitle = "Error During Launch"
-seeConsoleForDetails = "See console (CTRL + Shift + i) for more details."
-validatingFileIntegrity = "Validating file integrity.."
-errorDuringFileVerificationTitle = "Error During File Verification"
-downloadingFiles = "Downloading files.."
-errorDuringFileDownloadTitle = "Error During File Download"
-preparingToLaunch = "Preparing to launch.."
-launchingGame = "Launching game.."
+fatalError = "Erreur fatale"
+unableToLoadDistributionIndex = "Impossible de charger une copie de l'index de distribution. Regardez la console (CTRL + Shift + i) pour plus de détails."
+pleaseWait = "Veuillez patienter.."
+errorDuringLaunchTitle = "Erreur pendant le lancement du jeu"
+seeConsoleForDetails = "Regardez la console (CTRL + Shift + i) pour plus de détails."
+validatingFileIntegrity = "Validation de l'intégrité des fichiers.."
+errorDuringFileVerificationTitle = "Erreur pendant la vérification des fichiers"
+downloadingFiles = "Téléchargement des fichiers.."
+errorDuringFileDownloadTitle = "Erreur pendant le téléchargement des fichiers"
+preparingToLaunch = "Préparation au lancement du jeu.."
+launchingGame = "Lancement du jeu.."
 launchWrapperNotDownloaded = "The main file, LaunchWrapper, failed to download properly. As a result, the game cannot launch.<br><br>To fix this issue, temporarily turn off your antivirus software and launch the game again.<br><br>If you have time, please <a href=\"https://github.com/dscalzi/HeliosLauncher/issues\">submit an issue</a> and let us know what antivirus software you use. We'll contact them and try to straighten things out."
-doneEnjoyServer = "Done. Enjoy the server!"
-checkConsoleForDetails = "Please check the console (CTRL + Shift + i) for more details."
+doneEnjoyServer = "Terminé, profitez du jeu !"
+checkConsoleForDetails = "Merci de regarder la console (CTRL + Shift + i) pour plus de détails."
 
 [js.landing.news]
-checking = "Checking for News"
+checking = "Recherche des Nouveautés"
 
 [js.landing.discord]
-loading = "Loading game.."
-joining = "Sailing to Westeros!"
-joined = "Exploring the Realm!"
+loading = "Chargement du jeu.."
+joining = "Connexion en cours !"
+joined = "Connecté à Elkube !"
 
 [js.overlay]
-dismiss = "Dismiss"
+dismiss = "Rejeter"
 
 [js.settings.fileSelectors]
 executables = "Executables"
-allFiles = "All Files"
+allFiles = "Tous les fichiers"
 
 [js.settings.mstfLogin]
-errorTitle = "Something Went Wrong"
-errorMessage = "Microsoft authentication failed. Please try again."
+errorTitle = "Une erreur est survenue"
+errorMessage = "L'authentification Microsoft a échouée. Veuillez réessayez."
 okButton = "OK"
 
 [js.settings.mstfLogout]
-errorTitle = "Something Went Wrong"
-errorMessage = "Microsoft logout failed. Please try again."
+errorTitle = "Une erreur est survenue"
+errorMessage = "La déconnexion Microsoft a échouée. Veuillez réessayer."
 okButton = "OK"
 
 [js.settings.authAccountSelect]
-selectButton = "Select Account"
-selectedButton = "Selected Account &#10004;"
+selectButton = "Sélectionner le compte"
+selectedButton = "Compte sélectionné : &#10004;"
 
 [js.settings.authAccountLogout]
-lastAccountWarningTitle = "Warning<br>This is Your Last Account"
-lastAccountWarningMessage = "In order to use the launcher you must be logged into at least one account. You will need to login again after.<br><br>Are you sure you want to log out?"
-confirmButton = "I'm Sure"
-cancelButton = "Cancel"
+lastAccountWarningTitle = "Attention<br>C'est votre dernier compte"
+lastAccountWarningMessage = "Afin d'utiliser le Launcher, vous devez être connecté à au moins un compte. Vous devrez vous reconnecter après.<br><br>Etes-vous sûr(e) de vouloir vous déconnecter ?"
+confirmButton = "Je suis sûr(e)"
+cancelButton = "Annuler"
 
 [js.settings.authAccountPopulate]
 username = "Username"
