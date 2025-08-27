@@ -275,13 +275,13 @@ newReleaseTitle = "Nouvelle MaJ disponible"
 newPreReleaseTitle = "Nouvelle pré-release disponible"
 downloadingButton = "Téléchargement.."
 downloadButton = 'Téléchargement depuis GitHub<span style="font-size: 10px;color: gray;text-shadow: none !important;">Fermez le Launcher et executez le dmg pour mettre à jour.</span>'
-latestVersionTitle = "You Are Running the Latest Version"
-checkForUpdatesButton = "Check for Updates"
-checkingForUpdatesButton = "Checking for Updates.."
+latestVersionTitle = "Vous utilisez la dernière version"
+checkForUpdatesButton = "Chercher les MaJ"
+checkingForUpdatesButton = "Recherche des MaJ.."
 
 [js.settings.msftLogin]
-errorTitle = "Microsoft Login Failed"
-errorMessage = "We were unable to authenticate your Microsoft account. Please try again."
+errorTitle = "Échec de la connexion à Microsoft"
+errorMessage = "Nous n'avons pas pu vous connecter à votre compte Microsoft. Veuillez réessayer."
 okButton = "OK"
 
 [js.uibinder.startup]
