@@ -7,7 +7,7 @@ title = "Elkube Launcher"
 mediaGitHubURL = "https://github.com/LiveInGround/Elkube-Launcher"
 mediaXURL = "#"
 mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
+mediaYouTubeURL = "https://elkube.wtfcraft.ovh/communitytube"
 mediaDiscordURL = "https://elkube.wtfcraft.ovh/discord"
 
 [ejs.settings]
