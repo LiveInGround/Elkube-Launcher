@@ -302,8 +302,8 @@ installNowButton = "Installer maintenant"
 checkForUpdatesButton = "Chercher les mises à jour"
 
 [js.auth.microsoft.error]
-noProfileTitle = "Error During Login:<br>Profile Not Set Up"
-noProfileDesc = "Your Microsoft account does not yet have a Minecraft profile set up. If you have recently purchased the game or redeemed it through Xbox Game Pass, you have to set up your profile on <a href=\"https://minecraft.net/\">Minecraft.net</a>.<br><br>If you have not yet purchased the game, you can also do that on <a href=\"https://minecraft.net/\">Minecraft.net</a>."
+noProfileTitle = "Erreur pendant la connexion :<br>Profil non configuré"
+noProfileDesc = "Votre compte Microsoft n'a pas encore de compte Minecraft configuré. Si vous avez récemment acheté le jeu ou l'avez obtenu via le XBox Game Pass, vous devez configurer votre profil sur <a href=\"https://minecraft.net/\">minecraft.net</a>.<br><br>Si vous n'avez pas encore acheté le jeu, vous pouvez le faire sur <a href=\"https://minecraft.net/\">minecraft.net</a>."
 noXboxAccountTitle = "Error During Login:<br>No Xbox Account"
 noXboxAccountDesc = "Your Microsoft account has no Xbox account associated with it."
 xblBannedTitle = "Error During Login:<br>Xbox Live Unavailable"
@@ -314,9 +314,9 @@ unknownTitle = "Unknown Error During Login"
 unknownDesc = "An unknown error has occurred. Please see the console for details."
 
 [js.auth.mojang.error]
-methodNotAllowedTitle = "Internal Error:<br>Method Not Allowed"
-methodNotAllowedDesc = "Method not allowed. Please report this error."
-notFoundTitle = "Internal Error:<br>Not Found"
+methodNotAllowedTitle = "Erreur interne :<br>Méthode non autorisée"
+methodNotAllowedDesc = "Méthode non autorisée. Merci de signaler cette erreur."
+notFoundTitle = "Erreur interne :<br>Non trouvé"
 notFoundDesc = "Le service d'authentification n'a pas été trouvé. Merci de signaler ce problème."
 accountMigratedTitle = "Erreur pendant la connexion :<br>Compte migré"
 accountMigratedDesc = "Vous avez tenté de vous connecter avec un compte migré. Réessayez avec l'email du compte comme nom d'utilisateur."
