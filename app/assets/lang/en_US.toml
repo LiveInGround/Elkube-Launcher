@@ -285,9 +285,9 @@ errorMessage = "Nous n'avons pas pu vous connecter à votre compte Microsoft. Ve
 okButton = "OK"
 
 [js.uibinder.startup]
-fatalErrorTitle = "Fatal Error: Unable to Load Distribution Index"
-fatalErrorMessage = "A connection could not be established to our servers to download the distribution index. No local copies were available to load. <br><br>The distribution index is an essential file which provides the latest server information. The launcher is unable to start without it. Ensure you are connected to the internet and relaunch the application."
-closeButton = "Close"
+fatalErrorTitle = "Erreur fatale : Impossible de charger l'index de distribution"
+fatalErrorMessage = "Une connexion n'a pu être établie à nos serveurs pour télécharger l'index de distribution. Aucune copie locale n'est disponible. <br><br>L'index de distribution est un fichier essentiel qui fourni les derrières informations du serveur. Le Launcher ne peut pas démarrer sans lui. Vérifiez votre connexion Internet puis relancez l'application."
+closeButton = "Fermer"
 
 [js.uibinder.validateAccount]
 failedMessageTitle = "Failed to Refresh Login"
