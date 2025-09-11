@@ -1,6 +1,6 @@
 {
   "name": "elkubelauncher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "productName": "Elkube Launcher",
   "description": "Le launcher officiel (fork de Helios Launcher) du serveur Minecraft Elkube",
   "author": "LiveInGround (https://github.com/LiveInGround/)",
@@ -49,3 +49,4 @@
     "url": "git+https://github.com/LiveInGround/Elkube-Launcher.git"
   }
 }
+
